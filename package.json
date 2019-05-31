@@ -1,0 +1,19 @@
+{
+  "name": "the-chart-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpgutti/The-Chart-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpgutti/The-Chart-BackEnd/issues"
+  },
+  "homepage": "https://github.com/jpgutti/The-Chart-BackEnd#readme"
+}
